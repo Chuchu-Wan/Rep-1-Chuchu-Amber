@@ -20,7 +20,8 @@ This project replicates key analyses from the original study, specifically:
 
 ## Files in This Repository
 ### **Replication Files**
-- **`Figure1-copy.R`** – Script replicating Figure 1 from the original study.  
+- **`Figure1-copy.R`** – Script replicating Figure 1 from the original study.
+- **`Figure2-copy.R`** – Script replicating Figure 2 from the original study.
 - **`cmp-copy.R`** – Preprocessing and analysis script.  
 - **`comb.corpus.Rdata`** – Dataset containing speeches used for the analysis.  
 
